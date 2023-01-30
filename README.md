@@ -1,4 +1,4 @@
-## Hey there!👋
+### Hey there!👋
 
 #### I'm David, a full-stack developer at [Pasiona](https://www.linkedin.com/company/pasiona/mycompany/) and I love working with C# and JavaScript!
 This is my second year studying app development. I've worked with various programming languages and technologies: C#, Java, JavaScript, Dart, SQL, etc.
