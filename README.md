@@ -1,10 +1,12 @@
-## Hello, it's David!
-Hey there, this is my GitHub profile. Here you can see all the projects I have worked on.
+## Hey there!👋
 
-# Cool links
-<!-- BLOG-POST-LIST:START -->
-hola
-<!-- BLOG-POST-LIST:END -->
+#### I'm David, a full-stack developer at [Pasiona](https://www.linkedin.com/company/pasiona/mycompany/) and I love working with C# and JavaScript!
+This is my second year studying app development. I've worked with various programming languages and technologies: C#, Java, JavaScript, Dart, SQL, etc.
+
+### You can also find me here
+- ✍ [Medium](https://medium.com/@david.salcedo0313)
+- 💼 [LinkedIn](https://www.linkedin.com/in/david-salcedo-salamanca/)
+
 
 <!--
 **david03130/david03130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
