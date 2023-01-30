@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hello, it's David!
+Hey there, this is my GitHub profile. Here you can see all the projects I have worked on.
+
+# Cool links
+<!-- BLOG-POST-LIST:START -->
+hola
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **david03130/david03130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
