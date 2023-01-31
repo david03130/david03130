@@ -10,7 +10,7 @@ coming soon... 👀
 
 ### You can also find me here
 - ✍️ [Medium](https://medium.com/@david.salcedo0313)
-- 💼 [LinkedIn](https://www.linkedin.com/in/david-salcedo-salamanca/)
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/david-salcedo-salamanca/)
 
 
 <!--
