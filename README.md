@@ -3,13 +3,12 @@
 #### I'm David, a full-stack developer that loves working with C# and JavaScript!
 This is my second year studying app development. I've worked with various programming languages and technologies: C#, Java, JavaScript, Dart, SQL, etc.
 
-### My Medium Posts
+### My Blog Posts
 coming soon... 👀
 <br/>
 
 
 ### You can also find me here
-- ✍️ [Medium](https://medium.com/@david.salcedo0313)
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/david-salcedo-salamanca/)
 
 
