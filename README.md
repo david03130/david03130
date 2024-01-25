@@ -1,7 +1,7 @@
 ## Hey there!👋
 
-#### I'm David, a full-stack developer that loves working with C# and JavaScript!
-This is my second year studying app development. I've worked with various programming languages and technologies: C#, Java, JavaScript, Dart, SQL, etc.
+#### I'm David, a full-stack developer that loves working with C# and TypeScript!
+I've worked with various programming languages and technologies: C#, TypeScript, Java, JavaScript, Dart, SQL, etc.
 
 ### My Blog Posts
 coming soon... 👀
